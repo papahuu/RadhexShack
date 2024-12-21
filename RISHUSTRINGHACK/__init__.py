@@ -39,7 +39,7 @@ async def RISHUSTRINGHACK():
     header = Table(show_header=True, header_style="bold green")
     header.add_column(LOG_TEXT)
     LOG.print(header)
-    LOG.print(f"[bold cyan]𝐌𝐑.𝐔𝐓𝐓𝐀𝐌")
+    LOG.print(f"[bold cyan]𝐑ɪ𝐬ʜᴜ")
     LOG.print("[bold yellow]𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭.............")
     await app.start()    
     
