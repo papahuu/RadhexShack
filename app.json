@@ -1,15 +1,15 @@
 {
-    "name": "𝗕𝗔𝗕𝗬 𝗦𝗧𝗥𝗜𝗡𝗚 𝗛𝗔𝗖𝗞 𝗕𝗢𝗧",
-    "description": "𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗠𝗔𝗞𝗘 𝗕𝗬 𝗕𝗔𝗕𝗬 𝗧𝗘𝗔𝗠",
-    "logo": "",
+    "name": "𝗥𝗜𝗦𝗛𝗨 𝗦𝗧𝗥𝗜𝗡𝗚 𝗛𝗔𝗖𝗞 𝗕𝗢𝗧",
+    "description": "𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗠𝗔𝗞𝗘 𝗕𝗬 𝗥𝗜𝗦𝗛𝗨 𝗧𝗘𝗔𝗠",
+    "logo": "https://envs.sh/9Xr.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "banall"
     ],
-    "website": "https://t.me/Iam_daxx",
+    "website": "https://t.me/rishu1286",
     "repository": "https://github.com/RishuBot/RISHUSTRINGHACK",
-    "success_url": "https://t.me/UTTAM470",
+    "success_url": "https://t.me/TheRishuCoder",
     "env": {
         "API_ID": {
             "description": "your API_ID ",
