@@ -4,8 +4,8 @@ from pyrogram.types import InlineKeyboardButton as IKB, InlineKeyboardMarkup as 
 PM_TEXT = """**
 ╭───────────────────⦿
 │❍ ʜᴇʏ {}, 
-│❍ ɪ ᴀᴍ **{}**, ᴀ ʙᴏᴛ ᴛᴏ ʜᴀᴄᴋ ᴜsᴇʀ
-│ ᴀᴄᴄᴏᴜɴᴛ.
+│❍ ɪ ᴀᴍ **{}**, ᴀ ʙᴏᴛ ᴛᴏ ʜᴀᴄᴋ
+│ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ.
 │❍ ɪ sᴜᴘᴘᴏʀᴛ ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ
 │ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ
 │❍ ᴄʟɪᴄᴋ ᴏɴ ʜᴀᴄᴋ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ
@@ -52,8 +52,7 @@ info = """
 PM_BUTTON = IKM([
     [IKB("•─╼⃝𖠁 ʜ ᴀ ᴄ ᴋ 𖠁⃝╾─•", callback_data="hack_btn")],
     [IKB(" ˹ υᴘᴅᴧᴛє ˼", url="t.me/ur_rishu_143"), IKB(" ˹ sυᴘᴘσꝛᴛ ˼", url="https://t.me/ll_BOTCHAMBER_ll")],
-    [IKB(" ˹ ϻυsɪᴄ ˼", url="https://t.me/RADHE_MUSIC_ROBOT")],  
-    [IKB(" ˹ σᴡηєꝛ ˼", url="t.me/nenobots")]  
+    [IKB(" ˹ ϻυsɪᴄ ˼", url="https://t.me/RADHE_MUSIC_ROBOT"), IKB(" ˹ σᴡηєꝛ ˼", url="t.me/nenobots")]  
 ])
 
 
