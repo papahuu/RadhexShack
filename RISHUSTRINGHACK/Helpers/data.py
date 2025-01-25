@@ -4,8 +4,8 @@ from pyrogram.types import InlineKeyboardButton as IKB, InlineKeyboardMarkup as 
 PM_TEXT = """**
 ╭───────────────────⦿
 │❍ ʜᴇʏ {}, 
-│❍ ɪ ᴀᴍ **{}**, ᴀ ʙᴏᴛ ᴛᴏ ʜᴀᴄᴋ
-│ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ.
+│❍ ɪ ᴀᴍ **{}**, ᴀ ʙᴏᴛ ᴛᴏ
+│ʜᴀᴄᴋ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ.
 │❍ ɪ sᴜᴘᴘᴏʀᴛ ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ
 │ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ
 │❍ ᴄʟɪᴄᴋ ᴏɴ ʜᴀᴄᴋ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ
