@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝐑𝐈𝐒𝐇𝐔+𝗦𝗧𝗥𝗜𝗡𝗚+𝗕𝗢𝗧+𝗕𝗬+𝐑𝐈𝐒𝐇𝐔+𝗧𝗘𝗔𝗠">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝐑𝐀𝐃𝐇𝐄+𝗦𝗧𝗥𝗜𝗡𝗚+𝗕𝗢𝗧+𝗕𝗬+𝐑𝐀𝐃𝐇𝐄+𝗧𝗘𝗔𝗠">
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishuBot&repo=RISHUSTRINGHACK&theme=flag-india)
@@ -30,7 +30,7 @@
 
 
 ### Contact :
-<a href="https://t.me/rishu1286"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/ll_RADHE7_ll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
