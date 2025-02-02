@@ -5,7 +5,7 @@ from RISHUSTRINGHACK import app
 
 #--------------------------
 
-MUST_JOIN = "nenobots"
+MUST_JOIN = "ll_BOTCHAMBER_ll"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -31,7 +31,7 @@ async def must_join_channel(app: Client, msg: Message):
                             ],
                             [
                                 InlineKeyboardButton("๏Jᴏɪɴ๏", url="https://t.me/ll_BOTCHAMBER_ll"),
-                                InlineKeyboardButton("๏Jᴏɪɴ๏", url="https://t.me/ur_rishu_143")
+                                InlineKeyboardButton("๏Jᴏɪɴ๏", url="https://t.me/DP_WORLD7")
                             ]
                         ]
                     )
